@@ -1,0 +1,13 @@
+character:
+  name: Default Character
+  style: toon
+  expression: happy
+  pose: standing
+render:
+  resolution: 1024x1024
+  background: plain
+  lighting: soft
+settings:
+  smoothLines: true
+  boldOutline: true
+  colorPalette: vibrant
